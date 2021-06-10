@@ -7,4 +7,8 @@ Prolog is a logic programming language. It has important role in artificial inte
 
 IDE used: https://www.swi-prolog.org
 
+
+Most meterial was found: https://www.swi-prolog.org
+
+
 SOURCE : https://www.geeksforgeeks.org/prolog-an-introduction/
