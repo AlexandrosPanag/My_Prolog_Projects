@@ -1,0 +1,1 @@
+?- parent(alex,_). % underscore variable in prolog is like asking "does alex have children? " the program will                    %return either true or false depending on what we have given as data
