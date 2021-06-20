@@ -46,9 +46,8 @@ The following code explains easily how we can create a rule in prolog using the 
 
 
 
-
+---
 IDE used: https://www.swi-prolog.org
-
 
 
 Most meterial was found: https://www.swi-prolog.org & https://www.youtube.com/watch?v=RaAcvHwVi8I&list=PLLMmbOLFy25HGbFmMa6aWLBkFcI5FVabr
