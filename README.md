@@ -36,7 +36,19 @@ Logical_OR_AND_NOT.pl
 ---
 The following code explains how to create OR, AND & NOT logical statements in prolog
 
+---
+Prolog_Rule_Intro.pl
+---
+The following code explains easily how we can create a rule in prolog using the grandparent(X,Y) :-parent(X,Z),parent(Z,Y). statement 
+
+
+
+
+
+
+
 IDE used: https://www.swi-prolog.org
+
 
 
 Most meterial was found: https://www.swi-prolog.org & https://www.youtube.com/watch?v=RaAcvHwVi8I&list=PLLMmbOLFy25HGbFmMa6aWLBkFcI5FVabr
