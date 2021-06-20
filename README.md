@@ -5,6 +5,37 @@ Prolog is a logic programming language. It has important role in artificial inte
 
 ![](https://th.bing.com/th/id/Rbecc945828afe600691339b458a51132?rik=BBEKdNw1e%2bc%2bCA&pid=ImgRaw)
 
+
+
+----
+01- Facts
+----
+The following code, explains how we can declare statements in prolog also known as facts.
+
+
+---
+01_Facts_Example_Questions.txt
+----
+The following .txt file works with the "01-Facts" file we can copy and pase the questions or make our own and prolog will reply with either true if the statement is true or false if the statement is false
+
+
+---
+01_Common_Mistakes_In_prolog.pl
+---
+The following code shows how easily we can make common mistakes in prolog by asking a statement with a capital letter. Capital letters are always used as a variable question and NOT as a fact question (Tom is marked as a variable and not as a fact but tom is marked as a variable)
+
+
+---
+01_Underscore_Question.pl
+---
+This is a basic introduction of how the underscore fact question works in prolog (example: ?- parent(alex,_)."
+
+
+---
+Logical_OR_AND_NOT.pl
+---
+The following code explains how to create OR, AND & NOT logical statements in prolog
+
 IDE used: https://www.swi-prolog.org
 
 
