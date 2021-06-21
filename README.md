@@ -42,7 +42,10 @@ Prolog_Rule_Intro.pl
 The following code explains easily how we can create a rule in prolog using the grandparent(X,Y) :-parent(X,Z),parent(Z,Y). statement 
 
 
-
+---
+Database_example_with_date.pl
+---
+A basic illustration of how we can make a database using prolog and the date statement
 
 
 
