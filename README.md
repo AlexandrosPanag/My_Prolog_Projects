@@ -57,6 +57,6 @@ This is a basic example of how we can do mathematical operations in prolog
 IDE used: https://www.swi-prolog.org
 
 
-Most meterial was found: https://www.swi-prolog.org & https://www.youtube.com/watch?v=RaAcvHwVi8I&list=PLLMmbOLFy25HGbFmMa6aWLBkFcI5FVabr
+Most meterial was found: https://www.youtube.com/watch?v=RaAcvHwVi8I&list=PLLMmbOLFy25HGbFmMa6aWLBkFcI5FVabr 
 
 SOURCE : https://www.geeksforgeeks.org/prolog-an-introduction/
