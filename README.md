@@ -47,6 +47,10 @@ Database_example_with_date.pl
 ---
 A basic illustration of how we can make a database using prolog and the date statement
 
+---
+Arithmetic_Operations_In_Prolog.pl
+---
+This is a basic example of how we can do mathematical operations in prolog
 
 
 ---
