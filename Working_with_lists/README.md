@@ -19,3 +19,8 @@ reverse_command
 
 This program shows how we can use the reverse() command in prolog in order to reverse our list 
 
+---
+Append Advanced
+---
+
+This program shows how the append command works in advanced situations with lists
