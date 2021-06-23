@@ -58,5 +58,6 @@ IDE used: https://www.swi-prolog.org
 
 
 Most meterial was found: https://www.youtube.com/watch?v=RaAcvHwVi8I&list=PLLMmbOLFy25HGbFmMa6aWLBkFcI5FVabr 
+Other useful websites: http://learnprolognow.com
 
 SOURCE : https://www.geeksforgeeks.org/prolog-an-introduction/
